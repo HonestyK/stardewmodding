@@ -1,2 +1,4 @@
 # stardewmodding
-A fix to make aerinanxiety's Interiors mod work with Kanadeyoru's main mod. Will be taken down if requested or when it's not needed anymore.
+
+A place for me to put my Stardew modding related stuff if any.
+
