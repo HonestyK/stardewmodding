@@ -1,6 +1,6 @@
 # Unofficial Portraited Changing Skies Beta Interiors edit
 
-## This repository is uploaded for the purposes of demonstrating a usable fix for the **[Portraited Changing Skies Interiors](https://www.nexusmods.com/stardewvalley/mods/30002)** since it was missing some folders and json files. DO NOT UPLOAD THIS FOR PERSONAL USE.
+## This repository is uploaded for the purposes of demonstrating a usable fix for the **[Portraited Changing Skies Interiors](https://www.nexusmods.com/stardewvalley/mods/30002)** since it was missing some folders and json files. DO NOT USE THIS FOR PERSONAL USE.
 
 ### How it works:
 
